@@ -1,6 +1,6 @@
 # **Group 14**
 
-### _Group Members: Mai, Martin, Zach
+### _Group Members: Mai, Martin, Zach_
 ___
 
 ### Project 2 Title: State-Finance Housing
