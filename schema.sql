@@ -13,5 +13,3 @@ create table "income" (
 	"median_income" integer not null,
 	"avg_income_growth_rate" decimal(5,4)
 );
-
-select * from income
