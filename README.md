@@ -28,7 +28,7 @@ ___
 
 1. Open your terminal program and clone this *state-finance* repository.
 
-2. Once cloned, open PgAdmin to access PostgreSQL. Create a database called *state_finance*
+2. Once cloned, open PgAdmin to access PostgreSQL. Create a database called *state_finance*.
 
 3. Open a query tool in the database, and then open the *schema.sql* file from the repository.
 
